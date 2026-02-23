@@ -16,3 +16,5 @@ Object.defineProperty(window, 'matchMedia', {
 });
 
 // add more mocks here if you need them
+// add more mocks here if you need them
+// add more mocks here if you need them
